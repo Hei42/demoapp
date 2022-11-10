@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: demoapp
-        image: brahimhamdi/demoapp:latest
+        image: alexisbonnet1997/demoapp:latest
 ---          
 apiVersion: v1
 kind: Service
